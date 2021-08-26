@@ -1,0 +1,29 @@
+{
+  "name": "examplebot",
+  "version": "1.0.0",
+  "description": "Just an example bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seventty/examplebot.git"
+  },
+  "keywords": [
+    "bot",
+    "telegram",
+    "bot",
+    "javascript"
+  ],
+  "author": "Seventty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seventty/examplebot/issues"
+  },
+  "homepage": "https://github.com/Seventty/examplebot#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "node-telegram-bot-api": "^0.54.0"
+  }
+}
